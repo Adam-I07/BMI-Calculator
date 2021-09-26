@@ -1,0 +1,22 @@
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.AssemblyReference.cache
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Weight.resources
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.GenerateResource.cache
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\Users\adami\source\repos\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.MainForm.resources
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.PoundToKGWindow.resources
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
+C:\Users\ACER\Documents\C# programs\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.FeetToMWindow.resources
